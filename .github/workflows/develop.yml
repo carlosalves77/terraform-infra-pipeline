@@ -17,4 +17,4 @@ jobs:
       aws-assume-role-arn: "arn:aws:iam::073122651566:role/github-actions-carlosalves77-pipeline"
       aws-region: "us-east-1"
       aws-statefile-s3-bucket: "carlosalves77-us-east-1-terraform-statefile"
-      aws-lock-dynamodb-talbe: "carlosalves77-us-east-1-terraform-lock"
+      aws-lock-dynamodb-table: "carlosalves77-us-east-1-terraform-lock"
